@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Discovering the Huntington</title>
+</head>
+<body>
+  <img src="https://huntington.org/sites/default/files/01_dome-evening.jpg" alt="The Huntington dome in the evening."> <a href="https://huntington.org">The Huntington</a>
+  <h1 style="background-color:YellowGreen;">Context: Offerings</h1>
+  <p style="border:2px solid YellowGreen;"></p>
+  <ul>
+    <li>Nonprofit organization-accepts donations and advocates community engagement through diverse programming (museum collections and gardens)</li>
+    <li>Both digital and in-person library resources with more than 400,000 actual books and equally as many digitized items serves thousands of patrons</li>
+    <li>Digital archives managed by <a href="https//www.oclc.org/en/contentdm.html">OCLC</a>
+    </li>
+    <li>Emphasis on outreach and engagement through programming</li>
+    <li>Multicultural emphasis to engage diverse perspectives; recognition of indigenous land usage; engage all to spread knowledge</li>
+  </ul>
+  <h2 style="background-color:YellowGreen;">Content: Organizational Needs for Website</h2>
+  <ul>
+    <li>Website with hypertext exceeds 50 pages</li>
+    <li>Currently managed by archival management organization using HTML</li>
+    <li>Website maintenance requires the management of daily book uploads in addition to large client services outreach</li>
+    <li>Interactive features: Member sign-up, ticket purchasing, member accounts, online donations, career searches, archival searching</li>
+    <li>Heavy use of embedded images featuring gardens, wildlife, collections; embedded videos</li>
+  </ul>
+  <h2 style="background-color:YellowGreen;">Users: Diverse and Abundant</h2>
+  <ul>
+    <li>Children, families, adults- Ages 0-100+</li>
+    <li>Outreach programming that engage youth from multicultural and diverse socioeconomic backgrounds</li>
+    <li>2,000+ researchers from a multitude of colleges engage with research-specific programming annually</li>
+    <li>Easily thousands of in-person and online visits anually</li>
+  </ul>
+  <h2 style="background-color:Yellow;">Perspectives</h2>
+  <ul>
+    <li>Beautifully developed site; stunning images reflect purpose and mission well</li>
+    <li>Engagement tools are effective and easily found</li>
+    <li>Information is organized well</li>
+    <li>Interactive tools for book archives could use improvement; magnifying the books for perusal is cumbersome</li>
+  </ul>
+</body>
+</html>
